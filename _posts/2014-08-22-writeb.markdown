@@ -13,8 +13,7 @@ categories: 陶浩
 &emsp;&emsp;任何一门计算机语言都是有用的；
 
 <code>
-// main function   
-
+// main function
 <code>int main (int arg）
 <code>{
 <code>int a =0;
