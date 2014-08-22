@@ -9,20 +9,20 @@ categories: 陶浩
 &emsp;&emsp;学习技术是一个长期坚持的活动，尤其是计算机技术，更要需要不断地学习与实践。
 
 **如何开始学技术**
+
 &emsp;&emsp;任何一门计算机语言都是有用的；
 
-```
+<code>
 // main function   
-int main (int arg)
+int main (int arg）
 {
-
   int a =0;
 
   int b =1;
 
   return a+b;
 }
-```
+</code>
 
 **Sometimes I want a lot of text to be bold.
 Like, seriously, a _LOT_ of text**
