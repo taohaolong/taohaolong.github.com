@@ -1,6 +1,6 @@
 ---
 layout: page
-title: conact
+title: Contact
 permalink: /taohao/
 ---
 
