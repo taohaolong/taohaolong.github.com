@@ -1,0 +1,37 @@
+---
+title: "怎样学习技术"
+date: "2014-08-22 18:35:21"
+layout: post
+output: html_document
+categories: 陶浩
+---
+
+**我的第一篇blog**
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+summary(cars)
+```
+
+
+$$
+a=b+C
+$$
+
+
+
+**strong** or __strong__ ( Cmd + B )
+
+*emphasize* or _emphasize_ ( Cmd + I )
+
+**Sometimes I want a lot of text to be bold.
+Like, seriously, a _LOT_ of text**
+
+#### Blockquotes
+
+> Right angle brackets &gt; are used for block quotes.
+
+#### Links and Email
