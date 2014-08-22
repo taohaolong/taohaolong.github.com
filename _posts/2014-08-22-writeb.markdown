@@ -12,10 +12,8 @@ categories: 陶浩
 &emsp;&emsp;任何一门计算机语言都是有用的；
 
 ```
-// main function 
-
-  int main (int arg)
-
+// main function   
+int main (int arg)
 {
 
   int a =0;
@@ -23,7 +21,6 @@ categories: 陶浩
   int b =1;
 
   return a+b;
-
 }
 ```
 
