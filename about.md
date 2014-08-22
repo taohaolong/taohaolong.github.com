@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About Jacky Tao
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+###Jacky is a Free developer.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Jacky是一个自由开发者，热爱读书、写字与旅游。
+目前关注于领域：分布式计算及存储、视频通信技术、C++和Node.js等多领域；
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[mail](migrant.tao@gmail.com)
