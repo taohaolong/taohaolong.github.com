@@ -14,15 +14,13 @@ categories: 陶浩
 
 <code>
 // main function   
-int main (int arg）
-{
-  int a =0;
 
-  int b =1;
-
-  return a+b;
-}
-</code>
+<code>int main (int arg）
+<code>{
+<code>int a =0;
+<code>int b =1;
+<code>return a+b;
+<code>}
 
 **Sometimes I want a lot of text to be bold.
 Like, seriously, a _LOT_ of text**
