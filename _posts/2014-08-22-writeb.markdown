@@ -25,7 +25,6 @@ categories: 陶浩
   return a+b;
 
 }
-
 ```
 
 **Sometimes I want a lot of text to be bold.
