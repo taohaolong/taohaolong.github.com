@@ -9,3 +9,10 @@
 ## blog2 test
 
 ### blog3
+
+
+ ```C++
+int main(){
+    printf("Hello world!");
+}
+ ```
