@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jacky Tao
+title: About
 permalink: /about/
 ---
 
