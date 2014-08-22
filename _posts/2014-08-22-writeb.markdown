@@ -13,10 +13,14 @@ categories: 陶浩
 
 ```
 // main function 
+
 int main (int arg)
 {
+
   int a =0;
+
   int b =1;
+
   return a+b;
 }
 ```
