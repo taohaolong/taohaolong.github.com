@@ -4,7 +4,9 @@ author:
 email: migrant.tao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   一个自由软件开发者.
+  
   From China
+  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jacky.tao
