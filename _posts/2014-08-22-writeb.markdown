@@ -3,30 +3,10 @@ title: "微信中的博客"
 date: "2014-08-22 18:35:21"
 layout: post
 output: html_document
-categories: 陶浩
+categories: tao
 ---
 
 
-博客一般是在计算机写的。以这种形式发微信
+博客一般是用计算机写的。以这种形式发微信
 
 学习技术是一个长期坚持的活动，尤其是计算机技术，更要需要不断地学习与实践。
-
-**如何开始学技术**
-
-任何一门计算机语言都是有用的；
-
-<code>int main (int arg）
-<code>{
-<code>int a =0;
-<code>int b =1;
-<code>return a+b;
-<code>}
-
-**Sometimes I want a lot of text to be bold.
-Like, seriously, a _LOT_ of text**
-
-#### Blockquotes
-
-> Right angle brackets &gt; are used for block quotes.
-
-#### Links and Email
